@@ -13,7 +13,7 @@
 
 ***
 ## UML 
-![UML](/home/cws/IdeaProjects/designPattern/src/main/resources/builder_uml.png)
+![UML](https://github.com/chldntjr8036/designPattern/blob/master/src/main/resources/builder_uml.png?raw=true)
 
 ### 클래스 설명
 * Builder : 문서를 구성하기 위한 메서드를 결정하는 추상 클래스
