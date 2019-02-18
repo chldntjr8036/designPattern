@@ -24,3 +24,13 @@
 * Main : 동작 테스트용 클래스. 사용자.
 
 ***
+## 연습문제 1 - 예제 프로그램의 Builder 클래스를 인터페이스로 변경하고, 그것에 맞게 다른 클래스를 수정하시오.
+
+* 이 문제를 통해 왜 Director 클래스를 사용자와 Builder 사이에 뒀는지 약간 이해가 됐다. 
+* 문제 해결 자체는 간단한데 그냥 interface로 바꾸고 하위 클래스에 extends를 implements로 바꾸면 된다.
+만약 Director클래스가 없이 Builder클래스에서 템플릿 메서드를 구성했다면 수정해야 될게 더 많았을 것이다.
+(결국 현재 클래스 구조가 될것이다.)
+
+***
+## 참고 - StringBuffer와 StringBuilder의 차이
+* StringBuffer는 동기화되어 있고, StringBuilder는 그렇지 않다.
