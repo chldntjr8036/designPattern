@@ -8,12 +8,12 @@
 
 * 이 예제만 놓고 봤을 땐 템플릿 패턴과 유사하다. 다른 점이 있다면 템플릿 메서드 패턴은 상위 추상 클래스에서
 로직을 제어하지만 Builder 패턴은 추상메서드 객체 참조를 가지는 다른 클래스에서 제어한다는 점인데... 이 예제는 
-상황이 간단해서 그런지 이 패턴의 장점이 잘 와닿지는 않는다. 템플릿 메서드 패턴으로 충분히 구현 가능해보이고, 추상메스드와
+상황이 간단해서 그런지 이 패턴의 장점이 잘 와닿지는 않는다. 템플릿 메서드 패턴으로 충분히 구현 가능해보이고, 추상메서드와
 사용자 사이에 매개하는 클래스가 하나 더 끼어들어가는 이유를 잘 모르겠다.(아마 Builder 클래스 레벨에서 확장이 필요한 경우를 대비한 듯하다.)
 
 ***
 ## UML 
-![UML](/home/cws/IdeaProjects/designPattern/src/main/resources/builder_uml.png)
+![UML](https://github.com/chldntjr8036/designPattern/blob/master/src/main/resources/builder_uml.png?raw=true)
 
 ### 클래스 설명
 * Builder : 문서를 구성하기 위한 메서드를 결정하는 추상 클래스
