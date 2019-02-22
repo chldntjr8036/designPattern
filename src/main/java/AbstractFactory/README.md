@@ -12,7 +12,7 @@
 ***
 ## UML
 
-![UML](깃허브상 이미지 주소)
+![UML](https://github.com/chldntjr8036/designPattern/blob/master/src/main/resources/abstractFactory_uml.jpg?raw=true)
 
 ***
 
