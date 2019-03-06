@@ -9,7 +9,7 @@
 ***
 ## diagram
 
-![name](url)
+![uml](https://github.com/chldntjr8036/designPattern/blob/master/src/main/java/Decorator/diagram.jpg?raw=true)
 
 * Display : 최상위 Component 추상 클래스.
 * StringDisplay : 구체적인 Display 하위클래스.
