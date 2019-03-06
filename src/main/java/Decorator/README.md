@@ -1,6 +1,6 @@
-# Decoraator Pattern
+# Decorator Pattern
 
-## Decoraator Pattern란?
+## Decorator Pattern란?
 * 어떤 컴포넌트에 대해 장식하듯이 기능을 덮어 씌우는 패턴이다.
 
 ## 어떨 때 사용하는가? 
