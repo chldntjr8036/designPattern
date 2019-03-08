@@ -2,7 +2,7 @@
 * 데이터 구조와 처리를 분리하기 위해 고안된 패턴
 ***
 
-![diagram](URL)
+![diagram](https://github.com/chldntjr8036/designPattern/blob/master/src/main/java/Visitor/visitor_diagram.png?raw=true)
 
 ## EXAMPLE
 ### 파일 디렉터리 구조에 Visitor 패턴을 적용시켜보자.
