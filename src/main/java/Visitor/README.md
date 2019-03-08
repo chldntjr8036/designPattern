@@ -1,6 +1,9 @@
 # Visitor Pattern
 * 데이터 구조와 처리를 분리하기 위해 고안된 패턴
 ***
+
+![diagram](URL)
+
 ## EXAMPLE
 ### 파일 디렉터리 구조에 Visitor 패턴을 적용시켜보자.
 ### Element Interface
