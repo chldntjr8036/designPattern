@@ -1,7 +1,7 @@
 # Chain of Responsibility Pattern
 ***
 ## Diagram
-![diagram](URL)
+![diagram](https://github.com/chldntjr8036/designPattern/blob/master/src/main/java/ChainOfResponsibility/cor_diagram.jpg?raw=true)
 ***
 ## Example scenario
 * Trouble 은 문제를 나타내는 클래스다. 해결돼야할 문제는 number 로 정의된다.
