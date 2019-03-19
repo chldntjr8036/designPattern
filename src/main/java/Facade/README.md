@@ -17,7 +17,7 @@
 
 ### Database
 * 역할 : 클래스 패스 위치에 있는 text 데이터를 읽어들이고 Properties 객체에 저장한다.  
-text는 key와 value의 쌍으로 이루어져 있다.  
+text는 key와 value의 쌍으로 이루어져 있다.
 **data의 형태**
 ```
 chldntjr8036@naver.com=choi
